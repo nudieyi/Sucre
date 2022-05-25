@@ -1,1 +1,3 @@
 I am adding a new line to the file
+Many of the edits are not reflected herein
+There is still quite a lot to familiarize myself with
