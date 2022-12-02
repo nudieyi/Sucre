@@ -1,1 +1,1 @@
-I am not sure of what is going on here at this point but we will figure it out.
+We have been able to work out what the challenge might be on the file and the associated git commands. It does appear as though: whatever changes made to a file on a new branch, stay on that file till it is merged with another line of development of directly to the master branch
